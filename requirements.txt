@@ -1,0 +1,17 @@
+streamlit
+numpy
+Pillow
+# tensorflow
+pandas
+PaddleOCR
+matplotlib
+dateparser
+paddlepaddle
+instaloader
+transformers
+torch
+python-dotenv
+requests
+accelerate>=0.26.0
+openai
+xlsxwriter
