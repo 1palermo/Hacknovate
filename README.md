@@ -1,5 +1,5 @@
 # 📸 SnapTrack – AI-Powered Product Listing Tool
-
+How to use - https://drive.google.com/drive/folders/1aHps9epkJBQ9YkuADf2E4aI3wEcglCE3
 SnapTrack is a smart and accessible tool designed to help small shopkeepers, ONDC sellers, and inventory managers digitize their products instantly using just a camera. By using a combination of OCR, object detection, and LLMs (via Akash Network), SnapTrack generates structured e-commerce listings from simple product images — no barcodes or manual entry required.
 
 ---
